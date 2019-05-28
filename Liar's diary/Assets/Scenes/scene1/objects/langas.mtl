@@ -1,0 +1,9 @@
+newmtl okno
+Kd 1 1 1
+Ks 0 0 0
+illum 2
+
+newmtl Material #35
+Kd 1 1 1
+illum 2
+
