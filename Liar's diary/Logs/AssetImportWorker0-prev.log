@@ -1,0 +1,190 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.804; Version 2009; 64bit' Language: 'en' Physical Memory: 16313 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity/something/Liar's diary
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64406
+Successfully changed project path to: D:/Unity/something/Liar's diary
+D:/Unity/something/Liar's diary
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 135.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity/something/Liar's diary/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon HD 7800 Series (ID=0x6818)
+    Vendor:   
+    VRAM:     2027 MB
+    Driver:   27.20.14535.1000
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56692
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002500 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 122.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.450 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002836 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 127.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3743 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 230.5 MB.
+System memory in use after: 230.7 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 4182.
+Total: 2.855300 ms (FindLiveObjects: 0.365000 ms CreateObjectMapping: 0.174600 ms MarkObjects: 2.214700 ms  DeleteObjects: 0.099800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/UI/GOODDP__ SDF.asset
+  artifactKey: Guid(3e935dd734b3e804bb27084978854175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/GOODDP__ SDF.asset using Guid(3e935dd734b3e804bb27084978854175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbaf8345eae8288f47428bc0c0091acf') in 0.380447 seconds
+  Import took 0.387895 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003086 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 166.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.760 seconds
+Platform modules already initialized, skipping
+Shader 'HDRP/TerrainLit': dependency 'BaseMapGenShader' shader 'Hidden/HDRP/TerrainLit_BasemapGen' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4863 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 282.9 MB.
+System memory in use after: 276.4 MB.
+
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 5423.
+Total: 8.669700 ms (FindLiveObjects: 0.530500 ms CreateObjectMapping: 0.286500 ms MarkObjects: 2.700700 ms  DeleteObjects: 5.149900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 6846.663485 seconds.
+  path: Assets/UI/button-gigapixel-scale-6_00x.jpeg
+  artifactKey: Guid(9b91e6571a478e646a5c248b292b4128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/button-gigapixel-scale-6_00x.jpeg using Guid(9b91e6571a478e646a5c248b292b4128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a0340204a495ae8f28b33da478c14d') in 0.092937 seconds
+  Import took 0.102181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/UI/dialoguebox.png
+  artifactKey: Guid(53b40f5b5f3f80a4d9c4b87f6ae39b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/dialoguebox.png using Guid(53b40f5b5f3f80a4d9c4b87f6ae39b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da702b08e0046ab031f6a0906d0ddec5') in 0.018346 seconds
+  Import took 0.026647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/UI/button.png
+  artifactKey: Guid(3f4a6bdb032c3754e90d1bb575b9b065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/button.png using Guid(3f4a6bdb032c3754e90d1bb575b9b065) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f25ecab50f7ce03acc04318304cf868c') in 0.025722 seconds
+  Import took 0.033500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/UI/dialogbox.png
+  artifactKey: Guid(f08db861b4f6faa498cfc515c1e12b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/dialogbox.png using Guid(f08db861b4f6faa498cfc515c1e12b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5705f1c9da4a24d89301ade19f4bda4') in 0.014123 seconds
+  Import took 0.022238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/UI/GOODDP__.TTF
+  artifactKey: Guid(dd0ba01a290b6184fa6b9e2423ab3ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/GOODDP__.TTF using Guid(dd0ba01a290b6184fa6b9e2423ab3ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32e6b0c617ae3e839f6a65fdc99a1a4') in 0.224956 seconds
+  Import took 0.233407 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/UI/button-gigapixel-scale-6_00x.png
+  artifactKey: Guid(03a259cc2a6967645a4f68758cecb784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/button-gigapixel-scale-6_00x.png using Guid(03a259cc2a6967645a4f68758cecb784) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b936d62856ad4fe89a36f5add329565f') in 0.011192 seconds
+  Import took 0.019079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/UI/Untitled-2.png
+  artifactKey: Guid(14995bf2b2d773a4dad586bc3946bd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Untitled-2.png using Guid(14995bf2b2d773a4dad586bc3946bd36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445be73beb53a8eacaace5253f506d43') in 0.013951 seconds
+  Import took 0.021422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/UI/buttonhover.png
+  artifactKey: Guid(e8c5c04d59a4fbb468b9d39e89f686a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/buttonhover.png using Guid(e8c5c04d59a4fbb468b9d39e89f686a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e95f39b6046abe5c298689f2f006d5a0') in 0.013658 seconds
+  Import took 0.021614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/UI/button-gigapixel-scale-10_00x.png
+  artifactKey: Guid(8b139201f0afb2d4eb477ba609a43403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/button-gigapixel-scale-10_00x.png using Guid(8b139201f0afb2d4eb477ba609a43403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf93ce4afd12ca16502e8ecab88ac07e') in 0.014742 seconds
+  Import took 0.022919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.110938 seconds.
+  path: Assets/UI/button-gigapixel-scale-6_00x.jpeg
+  artifactKey: Guid(9b91e6571a478e646a5c248b292b4128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/button-gigapixel-scale-6_00x.jpeg using Guid(9b91e6571a478e646a5c248b292b4128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a0340204a495ae8f28b33da478c14d') in 0.005723 seconds
+  Import took 0.013881 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
